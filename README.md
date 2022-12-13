@@ -1,11 +1,7 @@
 # praktikum8
 
 
-# code pemograman
-
-
-
-import os
+mport os
 
 class data_mhsw:
     nama=""
@@ -99,6 +95,7 @@ while Loop:
     elif tanya=="k" or tanya=="K":
         print("Program Selesai")
         Loop = False
+
 
 
 
